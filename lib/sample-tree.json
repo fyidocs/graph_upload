@@ -1,0 +1,190 @@
+{
+    "id": "01YJ3ACIZQXCIMALPBSZE2WGN4NTYZNCP7",
+    "name": "fyi-docs",
+    "files": [],
+    "folders": [
+        {
+            "id": "01YJ3ACI34VTWTCEFV35AYTJ5K3ROIULSB",
+            "name": "Client 1",
+            "files": [],
+            "folders": [
+                {
+                    "id": "01YJ3ACI7JFMUPTJNLVVGLJX2EC6HPKIJS",
+                    "name": "Cabinet 1",
+                    "files": [
+                        {
+                            "id": "01YJ3ACIZ6WP4QK767HNEYKX5FIGEFBOFV",
+                            "name": "badfile - Copy (2).txt",
+                            "size": 3
+                        },
+                        {
+                            "id": "01YJ3ACI2CZUS7IZMW6NH2ODPESONVGGAA",
+                            "name": "badfile - Copy (3).txt",
+                            "size": 3
+                        }
+                    ],
+                    "folders": []
+                },
+                {
+                    "id": "01YJ3ACI4D3J7CM36DPJHZWPZZEZCQLHIR",
+                    "name": "foo",
+                    "files": [
+                        {
+                            "id": "01YJ3ACIYIJEM3LYQNUBB2WZQHUIJFY4RO",
+                            "name": "badfile - Copy (4).txt",
+                            "size": 3
+                        },
+                        {
+                            "id": "01YJ3ACI4FQHFAPU6ZWRCK23TUZ46S5GJE",
+                            "name": "badfile - Copy (5).txt",
+                            "size": 3
+                        }
+                    ],
+                    "folders": []
+                },
+                {
+                    "id": "01YJ3ACI47QRWJFRLXLVG3HD63UMWWJVIT",
+                    "name": "Group 1",
+                    "files": [
+                        {
+                            "id": "01YJ3ACIZHX246U5UXPNH2BJMGBWKFNKUF",
+                            "name": "goodfile - Copy (2).txt",
+                            "size": 3
+                        }
+                    ],
+                    "folders": [
+                        {
+                            "id": "01YJ3ACI4TARMMQCGYH5ALKD45JFRHTSVK",
+                            "name": "Cabinet 2",
+                            "files": [
+                                {
+                                    "id": "01YJ3ACI7QTMAYWI5435DKB5EKSA2MI7ZD",
+                                    "name": "goodfile - Copy (3).txt",
+                                    "size": 3
+                                },
+                                {
+                                    "id": "01YJ3ACI5FTL7YLBCI6FA2CIOA2RE6JXDC",
+                                    "name": "goodfile - Copy (4).txt",
+                                    "size": 3
+                                }
+                            ],
+                            "folders": []
+                        }
+                    ]
+                },
+                {
+                    "id": "01YJ3ACI5IG47TY26SYJC3E4BYPZLY5NDI",
+                    "name": "Group 3",
+                    "files": [
+                        {
+                            "id": "01YJ3ACI3DE4D3RVUWMJEKOE5XCMV2I2XC",
+                            "name": "goodfile - Copy (9).txt",
+                            "size": 3
+                        },
+                        {
+                            "id": "01YJ3ACIZGNRSI4UCKP5HZ7367HJ22GZ7A",
+                            "name": "goodfile.txt",
+                            "size": 3
+                        }
+                    ],
+                    "folders": []
+                }
+            ]
+        },
+        {
+            "id": "01YJ3ACIZROGYEAJX5GZG2DG2JTE676VSL",
+            "name": "Client 2",
+            "files": [],
+            "folders": [
+                {
+                    "id": "01YJ3ACI52VJQMHTZEDJHJGAFWRNAUTY4V",
+                    "name": "Group 2",
+                    "files": [
+                        {
+                            "id": "01YJ3ACI3OKITR5HW7ZNG3S6TJ3M5M3LKT",
+                            "name": "Document.docx",
+                            "size": 11005
+                        },
+                        {
+                            "id": "01YJ3ACI6XAI3OGMJ2FRFYQZT35NCFIMB6",
+                            "name": "goodfile - Copy (10) - Copy.txt",
+                            "size": 3
+                        },
+                        {
+                            "id": "01YJ3ACIYH6LHK4SE6RRAZU3Z72D2QSASU",
+                            "name": "goodfile - Copy (11) - Copy.txt",
+                            "size": 3
+                        }
+                    ],
+                    "folders": [
+                        {
+                            "id": "01YJ3ACIZRNZYCXFMRFJDIEQU3Y3RNUMVA",
+                            "name": "Cabinet 3",
+                            "files": [
+                                {
+                                    "id": "01YJ3ACI2B7NO2SBEC7FH3RDUDS7GOM6AD",
+                                    "name": "goodfile - Copy (12) - Copy.txt",
+                                    "size": 3
+                                },
+                                {
+                                    "id": "01YJ3ACIZZ2TJTA46KDZA3LUPFDKR32OBB",
+                                    "name": "goodfile - Copy (13) - Copy.txt",
+                                    "size": 3
+                                }
+                            ],
+                            "folders": []
+                        },
+                        {
+                            "id": "01YJ3ACI7NQOATDQ6EYNGZUMH6WSAAQVRP",
+                            "name": "folder-struct",
+                            "files": [
+                                {
+                                    "id": "01YJ3ACI2KWXT7AOZRB5DYIEIUQ2E3LCE3",
+                                    "name": "badfile - Copy (9).txt",
+                                    "size": 3
+                                }
+                            ],
+                            "folders": [
+                                {
+                                    "id": "01YJ3ACI2UGKN3RI6UQNGJZTLKK4BVCEW3",
+                                    "name": "d",
+                                    "files": [
+                                        {
+                                            "id": "01YJ3ACI6DIMQCJEVHRZHIJBT6U3AA5HFE",
+                                            "name": "badfile - Copy (8).txt",
+                                            "size": 3
+                                        }
+                                    ],
+                                    "folders": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01YJ3ACI6FPCWLNA2IK5D3NGLGLIQ3WI2H",
+                    "name": "Group 6",
+                    "files": [],
+                    "folders": []
+                }
+            ]
+        },
+        {
+            "id": "01YJ3ACIYF3RDS5KYIRNBKRANHGN7IMVDV",
+            "name": "Client 5",
+            "files": [
+                {
+                    "id": "01YJ3ACIYE63J4FQHHMJGYB6QFJYTHT3C4",
+                    "name": "badfile - Copy (6).txt",
+                    "size": 3
+                },
+                {
+                    "id": "01YJ3ACI2Q6IWF6AZBJVGLSU6QJJQXG6UF",
+                    "name": "badfile - Copy (7).txt",
+                    "size": 3
+                }
+            ],
+            "folders": []
+        }
+    ]
+}

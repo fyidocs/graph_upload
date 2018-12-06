@@ -1,0 +1,29 @@
+{
+  "name": "ms-graph-to-s3",
+  "version": "1.0.0",
+  "description": "Upload valid files to S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyidocs/graph_upload.git"
+  },
+  "keywords": [
+    "s3",
+    "Microsoft",
+    "Graph",
+    "Tree"
+  ],
+  "author": "Syed Ahmed Anas",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/fyidocs/graph_upload/issues"
+  },
+  "homepage": "https://github.com/fyidocs/graph_upload#readme",
+  "dependencies": {
+    "aws-sdk": "^2.371.0",
+    "superagent": "^4.0.0"
+  }
+}
